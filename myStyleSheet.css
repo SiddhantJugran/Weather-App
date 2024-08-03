@@ -1,0 +1,10 @@
+body {
+    background-image: url("https://as1.ftcdn.net/v2/jpg/08/76/08/40/1000_F_876084064_3DLqdK77HZYqPYcTE0WHBF3mAqexV7Dr.jpg");
+    overflow-x: hidden;
+}
+
+#background {
+    background-color: transparent;
+    backdrop-filter: blur(3px);
+    border: 3px solid white;
+}
