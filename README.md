@@ -12,7 +12,7 @@ Easily navigate through the app and find the weather details you need quickly.
 <br>
 # Detailed Weather Descriptions:
 From clear skies to thunderstorms, receive accurate descriptions of the current weather conditions.
-#Technologies Used
+# Technologies Used
 HTML , CSS , JavaScript , 
 <br>
 Weather API ( Rapid API )
